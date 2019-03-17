@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="969b95e8-f18e-4bae-aea9-0c1d768b79bf" name="Default Changelist" comment="" />
+    <list default="true" id="969b95e8-f18e-4bae-aea9-0c1d768b79bf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_site_003/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_site_003/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_site_003/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_site_003/urls.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +21,7 @@
         <entry file="file://$PROJECT_DIR$/my_site_003/settings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="168">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
+              <caret line="33" column="14" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -25,11 +29,38 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/my_site_003/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="153">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/indexxx/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="32" selection-start-column="32" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/indexxx/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="48" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/indexxx/templates/indexxx/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -40,6 +71,9 @@
     <findStrings>
       <find>pass</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -60,10 +94,10 @@
         <option value="$PROJECT_DIR$/index/template/index/index.html" />
         <option value="$PROJECT_DIR$/index/templates/index/index.html" />
         <option value="$PROJECT_DIR$/index/urls.py" />
-        <option value="$PROJECT_DIR$/indexxx/views.py" />
-        <option value="$PROJECT_DIR$/indexxx/urls.py" />
-        <option value="$PROJECT_DIR$/indexxx/templates/indexxx/index.html" />
         <option value="$PROJECT_DIR$/my_site_003/urls.py" />
+        <option value="$PROJECT_DIR$/indexxx/views.py" />
+        <option value="$PROJECT_DIR$/indexxx/templates/indexxx/index.html" />
+        <option value="$PROJECT_DIR$/indexxx/urls.py" />
         <option value="$PROJECT_DIR$/my_site_003/settings.py" />
       </list>
     </option>
@@ -74,11 +108,13 @@
     <option name="width" value="1400" />
     <option name="height" value="820" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -86,11 +122,38 @@
               <item name="my_site_003" type="b2602c69:ProjectViewProjectNode" />
               <item name="my_site_003" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="my_site_003" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my_site_003" type="462c0819:PsiDirectoryNode" />
+              <item name="indexxx" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my_site_003" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my_site_003" type="462c0819:PsiDirectoryNode" />
+              <item name="indexxx" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my_site_003" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my_site_003" type="462c0819:PsiDirectoryNode" />
+              <item name="indexxx" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="indexxx" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my_site_003" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my_site_003" type="462c0819:PsiDirectoryNode" />
+              <item name="my_site_003" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my_site_003" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my_site_003" type="462c0819:PsiDirectoryNode" />
+              <item name="polls" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -101,11 +164,12 @@
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\dj_ango_ex\my_site_003\index" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\dj_ango_ex\my_site_003\templates\admin" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\dj_ango_ex\my_site_003\indexxx" />
+      <recent name="D:\dj_ango_ex\my_site_003\index" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -165,11 +229,12 @@
       <workItem from="1552584580687" duration="5152000" />
       <workItem from="1552679421514" duration="1267000" />
       <workItem from="1552811570968" duration="1198000" />
+      <workItem from="1552817073296" duration="1134000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34673000" />
+    <option name="totallyTimeSpent" value="35807000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -183,12 +248,12 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27936962" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28366762" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49856734" weight="0.32974428" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.497851" weight="0.32974428" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39973083" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -196,8 +261,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50143266" side_tool="true" weight="0.32974428" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.33109018" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.502149" side_tool="true" weight="0.32974428" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.33109018" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -319,12 +384,12 @@
     <entry file="file://$PROJECT_DIR$/my_site_003/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/indexxx/urls.py">
+    <entry file="file://$PROJECT_DIR$/polls/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        <state relative-caret-position="459">
+          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
           <folding>
-            <element signature="e#0#41#0" expanded="true" />
+            <element signature="e#0#44#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -338,25 +403,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/indexxx/templates/indexxx/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+        <state relative-caret-position="153">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/polls/views.py">
+    <entry file="file://$PROJECT_DIR$/indexxx/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#44#0" expanded="true" />
-          </folding>
+        <state>
+          <caret column="32" selection-start-column="32" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/my_site_003/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
           </folding>
@@ -366,7 +428,7 @@
     <entry file="file://$PROJECT_DIR$/my_site_003/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <caret line="33" column="14" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
         </state>
       </provider>
     </entry>
